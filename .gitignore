@@ -91,6 +91,7 @@ env.bak/
 venv.bak/
 data_dump/
 .vscode/
+__init__.py
 
 # Spyder project settings
 .spyderproject
